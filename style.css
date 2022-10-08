@@ -73,6 +73,7 @@ nav {
 
 .skills {
     display: flex;
+    flex-wrap: wrap;
 }
 
 .skill {
@@ -80,7 +81,7 @@ nav {
     list-style: none;
     background-color: #4CAF7C;
     color: #fff;
-    margin-right: 1rem;
+    margin: 0.5rem 1rem 0.5rem 0rem;
     border-radius: 100px
 }
 
